@@ -6,5 +6,5 @@
 
 >本项目需求是在没有人工交互的情况下，自动调出键盘，模仿微信pay。实现思路简单，不写文档了，请看源码。
 
-![./Untitled.gif]
+![https://github.com/davecat/my_keyboard/blob/master/Untitled.gif]
 
